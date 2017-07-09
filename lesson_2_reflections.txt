@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+from that point onwards git will hlp us in version controllong of the system.If we want to keep the tracks for existing it provides us provision to do that.
