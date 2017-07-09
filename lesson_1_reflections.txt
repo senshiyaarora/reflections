@@ -8,3 +8,4 @@ Pros: It will give u flexibility
 Cons: Needs to be vigilent to commit every logical change.
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 Google docs is not made for code.Changes text is there only.Unnecessary saves.Git is more concerned with code and compilation. 
+bvbb
